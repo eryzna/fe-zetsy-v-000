@@ -7,7 +7,8 @@
 body {
 	background: #F3EBE9;
 	font-size: 100%;
-	font-family: 'Times New Roman', serif; 
+	font-family: 'Times New Roman', serif;
+	color: rgb(152,173,166)
 }
 
 .wrapper {
@@ -16,5 +17,24 @@ body {
 	background: #fff;
 	padding: 0 45px 20px;
 }
+
+p {
+	color: #555;
+	margin: 0 0 20px 0;
+	display: block;
+}
+
+#logo {
+	font-size: 5em;
+	font-weight: normal;
+	font-family: 'Baskerville', serif;
+	color: rgb (152,173,166)
+}
+
+.small {
+	font-size: 0.8em;
+	text-align: right
+}
+
 
 /* Write all remaining styles here */
