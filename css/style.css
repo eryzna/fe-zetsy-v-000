@@ -28,6 +28,10 @@ p {
 	display: block;
 }
 
+a {
+	background:transparent;
+}
+
 header a {
 	font-size: 5em;
 	font-weight: normal;
