@@ -36,5 +36,9 @@ p {
 	text-align: right
 }
 
+featured img {
+	border: 5px rgb(152,173,166) solid;
+}
+
 
 /* Write all remaining styles here */
