@@ -44,7 +44,8 @@ p {
 
 figure img {
 	border: 5px rgb(152,173,166) solid;
-	position: left
+	position: 0 auto;
+	padding: 0
 }
 
 
