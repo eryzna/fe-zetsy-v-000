@@ -68,8 +68,8 @@ header a {
 	border: 5px rgb(111,127,122) solid;
 }
 
-h1:hover {
-	color: rgb(111,127,122)
+header a:hover {
+	color: rgb(111,127,122);
 }
 
 /* Write all remaining styles here */
