@@ -58,6 +58,7 @@ header a {
 #press {
 	margin-bottom: 20px;
 }
+
 #press img {
 	border: 5px #ccc solid;
 	padding: 1px;
@@ -65,6 +66,10 @@ header a {
 
 #press img:hover {
 	border: 5px rgb(111,127,122) solid;
+}
+
+h1:hover {
+	color: rgb(111,127,122)
 }
 
 /* Write all remaining styles here */
